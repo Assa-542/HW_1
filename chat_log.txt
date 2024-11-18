@@ -4,3 +4,5 @@ You: Hello World
 Server: Echo: Hello World
 Server: Echo: Hello, Bub
 You: Hello, Bub
+You: Calculator
+Server: Echo: Calculator
