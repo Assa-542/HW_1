@@ -1,3 +1,5 @@
+package task2;
+
 import Server.ServerController;
 import Server.ServerGui;
 import Server.ServerRepository;
